@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m a+x ./*
+chmod a=x ./*
